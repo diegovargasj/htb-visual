@@ -1,9 +1,0 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>htb_visual</RootNamespace>
-    <TargetFramework>net7.0</TargetFramework>
-  </PropertyGroup>
-
-</Project>
